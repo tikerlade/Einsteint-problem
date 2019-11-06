@@ -1,29 +1,29 @@
-﻿Build started 10/31/2019 6:30:11 PM.
-     1>Project "c:\Users\Lalala\documents\visual studio 2012\Projects\Project2\Project2\Project2.vcxproj" on node 2 (Build target(s)).
+﻿Build started 11/7/2019 12:03:51 AM.
+     1>Project "C:\Users\Lalala\Documents\Visual Studio 2012\Projects\Einsteint-problem\Project2\Project2\Project2.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _HAS_ITERATOR_DEBUGGING=0 /D _ITERATOR_DEBUG_LEVEL=0 /Gm /EHsc /RTC1 /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
          Source.cpp
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\lalala\documents\visual studio 2012\Projects\Project2\Debug\Project2.exe" /INCREMENTAL /NOLOGO "c:\users\lalala\documents\visual studio 2012\Projects\Project2\Project2/bdd.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\lalala\documents\visual studio 2012\Projects\Project2\Debug\Project2.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\lalala\documents\visual studio 2012\Projects\Project2\Debug\Project2.lib" /MACHINE:X86 Debug\Source.obj
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Lalala\Documents\Visual Studio 2012\Projects\Einsteint-problem\Project2\Debug\Project2.exe" /INCREMENTAL /NOLOGO "C:\Users\Lalala\Documents\Visual Studio 2012\Projects\Einsteint-problem\Project2\Project2/bdd.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Lalala\Documents\Visual Studio 2012\Projects\Einsteint-problem\Project2\Debug\Project2.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Lalala\Documents\Visual Studio 2012\Projects\Einsteint-problem\Project2\Debug\Project2.lib" /MACHINE:X86 Debug\Source.obj
          bdd.lib(kernel.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
      1>LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
      1>Source.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
          Generating code
          Finished generating code
-     1>bdd.lib(kernel.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'bdd.lib(kernel.obj)' or at 'c:\users\lalala\documents\visual studio 2012\Projects\Project2\Debug\vc110.pdb'; linking object as if no debug info
-     1>bdd.lib(cppext.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'bdd.lib(cppext.obj)' or at 'c:\users\lalala\documents\visual studio 2012\Projects\Project2\Debug\vc110.pdb'; linking object as if no debug info
-     1>bdd.lib(pairs.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'bdd.lib(pairs.obj)' or at 'c:\users\lalala\documents\visual studio 2012\Projects\Project2\Debug\vc110.pdb'; linking object as if no debug info
-     1>bdd.lib(reorder.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'bdd.lib(reorder.obj)' or at 'c:\users\lalala\documents\visual studio 2012\Projects\Project2\Debug\vc110.pdb'; linking object as if no debug info
-     1>bdd.lib(bddop.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'bdd.lib(bddop.obj)' or at 'c:\users\lalala\documents\visual studio 2012\Projects\Project2\Debug\vc110.pdb'; linking object as if no debug info
-     1>bdd.lib(prime.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'bdd.lib(prime.obj)' or at 'c:\users\lalala\documents\visual studio 2012\Projects\Project2\Debug\vc110.pdb'; linking object as if no debug info
-     1>bdd.lib(fdd.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'bdd.lib(fdd.obj)' or at 'c:\users\lalala\documents\visual studio 2012\Projects\Project2\Debug\vc110.pdb'; linking object as if no debug info
-     1>bdd.lib(bvec.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'bdd.lib(bvec.obj)' or at 'c:\users\lalala\documents\visual studio 2012\Projects\Project2\Debug\vc110.pdb'; linking object as if no debug info
-     1>bdd.lib(imatrix.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'bdd.lib(imatrix.obj)' or at 'c:\users\lalala\documents\visual studio 2012\Projects\Project2\Debug\vc110.pdb'; linking object as if no debug info
-     1>bdd.lib(tree.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'bdd.lib(tree.obj)' or at 'c:\users\lalala\documents\visual studio 2012\Projects\Project2\Debug\vc110.pdb'; linking object as if no debug info
-     1>bdd.lib(cache.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'bdd.lib(cache.obj)' or at 'c:\users\lalala\documents\visual studio 2012\Projects\Project2\Debug\vc110.pdb'; linking object as if no debug info
-         Project2.vcxproj -> c:\users\lalala\documents\visual studio 2012\Projects\Project2\Debug\Project2.exe
-     1>Done Building Project "c:\Users\Lalala\documents\visual studio 2012\Projects\Project2\Project2\Project2.vcxproj" (Build target(s)).
+     1>bdd.lib(kernel.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'bdd.lib(kernel.obj)' or at 'C:\Users\Lalala\Documents\Visual Studio 2012\Projects\Einsteint-problem\Project2\Debug\vc110.pdb'; linking object as if no debug info
+     1>bdd.lib(bddop.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'bdd.lib(bddop.obj)' or at 'C:\Users\Lalala\Documents\Visual Studio 2012\Projects\Einsteint-problem\Project2\Debug\vc110.pdb'; linking object as if no debug info
+     1>bdd.lib(cppext.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'bdd.lib(cppext.obj)' or at 'C:\Users\Lalala\Documents\Visual Studio 2012\Projects\Einsteint-problem\Project2\Debug\vc110.pdb'; linking object as if no debug info
+     1>bdd.lib(pairs.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'bdd.lib(pairs.obj)' or at 'C:\Users\Lalala\Documents\Visual Studio 2012\Projects\Einsteint-problem\Project2\Debug\vc110.pdb'; linking object as if no debug info
+     1>bdd.lib(reorder.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'bdd.lib(reorder.obj)' or at 'C:\Users\Lalala\Documents\Visual Studio 2012\Projects\Einsteint-problem\Project2\Debug\vc110.pdb'; linking object as if no debug info
+     1>bdd.lib(prime.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'bdd.lib(prime.obj)' or at 'C:\Users\Lalala\Documents\Visual Studio 2012\Projects\Einsteint-problem\Project2\Debug\vc110.pdb'; linking object as if no debug info
+     1>bdd.lib(fdd.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'bdd.lib(fdd.obj)' or at 'C:\Users\Lalala\Documents\Visual Studio 2012\Projects\Einsteint-problem\Project2\Debug\vc110.pdb'; linking object as if no debug info
+     1>bdd.lib(cache.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'bdd.lib(cache.obj)' or at 'C:\Users\Lalala\Documents\Visual Studio 2012\Projects\Einsteint-problem\Project2\Debug\vc110.pdb'; linking object as if no debug info
+     1>bdd.lib(bvec.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'bdd.lib(bvec.obj)' or at 'C:\Users\Lalala\Documents\Visual Studio 2012\Projects\Einsteint-problem\Project2\Debug\vc110.pdb'; linking object as if no debug info
+     1>bdd.lib(imatrix.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'bdd.lib(imatrix.obj)' or at 'C:\Users\Lalala\Documents\Visual Studio 2012\Projects\Einsteint-problem\Project2\Debug\vc110.pdb'; linking object as if no debug info
+     1>bdd.lib(tree.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'bdd.lib(tree.obj)' or at 'C:\Users\Lalala\Documents\Visual Studio 2012\Projects\Einsteint-problem\Project2\Debug\vc110.pdb'; linking object as if no debug info
+         Project2.vcxproj -> C:\Users\Lalala\Documents\Visual Studio 2012\Projects\Einsteint-problem\Project2\Debug\Project2.exe
+     1>Done Building Project "C:\Users\Lalala\Documents\Visual Studio 2012\Projects\Einsteint-problem\Project2\Project2\Project2.vcxproj" (Build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:01.94
+Time Elapsed 00:00:01.34
