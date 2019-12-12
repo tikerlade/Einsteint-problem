@@ -1,4 +1,4 @@
-﻿Build started 11/7/2019 12:03:51 AM.
+﻿Build started 12/13/2019 12:38:59 AM.
      1>Project "C:\Users\Lalala\Documents\Visual Studio 2012\Projects\Einsteint-problem\Project2\Project2\Project2.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _HAS_ITERATOR_DEBUGGING=0 /D _ITERATOR_DEBUG_LEVEL=0 /Gm /EHsc /RTC1 /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
@@ -26,4 +26,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:01.34
+Time Elapsed 00:00:01.68
