@@ -7,10 +7,10 @@
 # Constraint1 (3)
 2 2 6 (2)
 6 1 6 (6)
-9 0 0 (9)
+8 0 0 (9)
 
 # Constraint2 (5)
-2 7 3 6 (6)
+0 0 3 8 (8)
 0 4 1 2 (0)
 0 2 2 5 (5)
 1 5 2 1 (7)
@@ -21,6 +21,13 @@
 1 4 upper left from 3 0 (0, 4)
 2 2 downer left from 1 4 (3, 1)
 2 5 downer left from 0 2 (7, 5)
+
+
+0 4 upper left from 0 3 (0, 4)
+0 3 upper left from 0 0 (4, 8)
+1 0 downer left from 1 3 (4, 2)
+1 6 downer left from 2 3 (6, 4)
+
 
 # Constraint4 (4)
 3 6 neighbour 1 0 (6, 4)
